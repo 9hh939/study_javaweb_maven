@@ -8,9 +8,7 @@ public class SpringbootMybatisStudyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootMybatisStudyApplication.class, args);
-        System.out.println("那场球不错！");
-        System.out.println("那场球不错！");
-        System.out.println("main提交！");
+        System.out.println("我是远程仓库！");
     }
 
 }
