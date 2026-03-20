@@ -10,6 +10,7 @@ public class SpringbootMybatisStudyApplication {
         SpringApplication.run(SpringbootMybatisStudyApplication.class, args);
         System.out.println("那场球不错！");
         System.out.println("那场球不错！");
+        System.out.println("这位是分支！");
     }
 
 }
